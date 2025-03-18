@@ -10,8 +10,8 @@ A simple web application that displays a daily quote with options to copy, tweet
 - ✅ **Export the quote** as a file  
 
 ## Screenshots
-![Quote App Screenshot](screenshot.png)  
-*(Replace with an actual screenshot of your app.)*  
+![image](https://github.com/user-attachments/assets/fd586cff-9eff-49ca-8d85-6f42269f9b7a)
+
 
 ## Deployment
 The application is live at:  
