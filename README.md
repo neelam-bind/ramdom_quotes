@@ -15,11 +15,7 @@ A simple web application that displays a daily quote with options to copy, tweet
 
 ## Deployment
 The application is live at:  
-🔗 **[Live Demo](https://yourusername.github.io/your-repo-name/)**  
-*(Replace with your actual GitHub Pages link.)*  
+vercel deployment -🔗 ramdom-quotes-r7t73tl4y-neelam-binds-projects.vercel.app
+github deployment -🔗 https://neelam-bind.github.io/ramdom_quotes/
 
-## How to Run Locally
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+
